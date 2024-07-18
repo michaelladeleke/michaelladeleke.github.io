@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1
+title: Week 2
 by: Asia R. Fuller 
 ---
 This week was focused on looking over the data and cleaning it. In the beginning, I was haivng trouble understanding the assignment and how to start as well as what is expected. I started to get more confortable asking my mentors for help which made the project go by quickly. Although I am still stuck on a few of the fundamentals of regex, python, and other coding functions, I was continously being encouraged to take my time and be patient with myself while learning and continuing the project. Throughout the week I learned the importance of research, the correlations of research and writing, along with structuring the paper to have a great paper. Although I personally already had previous knowledge of those, it was nice to get that refreshers as well as learning a few more points throughout the entire presentation. Following after that, in the labs, we were reinforced about or roles and how the final product should be presented. 
