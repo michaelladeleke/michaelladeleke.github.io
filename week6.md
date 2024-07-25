@@ -1,1 +1,1 @@
-
+Week 6 was reserved for practicig the middle presentation and contiuning with the data preprocessing staege. As the data specialist my team and I contiuned on the data annotation proceess which is when my team and I would go through aproximetly 300 random sentences, and assign them to a specific emotion that we think would better fit the emotion.  
