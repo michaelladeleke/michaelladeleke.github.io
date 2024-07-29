@@ -1,7 +1,7 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+My mentor, Cynthia Nosiri, who is a graduate student at Morgan State University is a researcher who’s work focuses on her own personal project which surfaces AAVE as well as machine learning models. Her work aims to leverage a series of libraries to help reduce the gap and bias of AAVE and NLP. Nosiri's personal project at the DEPA lab, is similar and a few of her ideas aligns with the project Emoti-Gen. 
 
-[Mentor's Website](https://htilua.org/about-the-pi)
+
 
 
