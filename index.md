@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: Michael Adeleke
+description: Michael Adeleke CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
 
