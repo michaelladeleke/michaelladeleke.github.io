@@ -4,27 +4,23 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Michael Adeleke
+  role: Senior, Computer Science Major at Morgan State University
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/michael-adeleke-4a1228217/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
-
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    I’m a senior Computer Science student at Morgan State University and a researcher in the Human-AI eXperience (HAX) Lab. My interests include artificial intelligence, virtual reality, and computer science education. I’ve led outreach efforts through CodeBears, a summer STEM initiative for underrepresented youth, and have presented my work at national conferences. I’m currently preparing to pursue graduate studies in Computer Science.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🇳🇬
+      title: Nigerian
+      description: I am Nigerian! Favorite food is jollof, and I've visited twice in my life. 
+    - icon: 🏈
+      title: Football
+      description: Huge Baltimore Ravens fan, and use to play in highschool as a defensive end. 
+    - icon: ⛩️
+      title: Anime
+      description: I enjoy watching anime, and reading manga. My favorites are Attack on Titan, and HunterxHunter.
 
   gallery:
     - image: /assets/images/me-guitar.png
