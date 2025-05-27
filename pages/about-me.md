@@ -23,12 +23,12 @@ about:
       description: I enjoy watching anime, and reading manga. My favorites are Attack on Titan, and HunterxHunter.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/me-family.png
+      caption: My cousins and I
+    - image: /assets/images/me-japan.png
+      caption: A nice image of when I went to Japan
+    - image: /assets/images/me-ravens.jpg
+      caption: My cousin and I repping the Ravens
+    - image: /assets/images/me-gym.png
+      caption: I workout sometimes
 ---
