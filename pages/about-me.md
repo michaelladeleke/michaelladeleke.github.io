@@ -29,6 +29,6 @@ about:
       caption: A nice image of when I went to Japan
     - image: assets/images/me-ravens.jpg
       caption: My cousin and I repping the Ravens
-    - image: assets/images/me-gym.png
+    - image: assets/images/me-gym.jpg
       caption: I workout sometimes
 ---
