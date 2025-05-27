@@ -25,7 +25,7 @@ about:
   gallery:
     - image: assets/images/me-family.jpg
       caption: My cousins and I
-    - image: assets/images/me-japan.png
+    - image: assets/images/me-japan.JPEG
       caption: A nice image of when I went to Japan
     - image: assets/images/me-ravens.jpg
       caption: My cousin and I repping the Ravens
