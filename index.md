@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Michael Adelek
+title: Michael Adeleke
 description: Michael Adeleke CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "I’m just trying to grow. It’s all about improvement, no matter where you start from."
