@@ -3,7 +3,7 @@ layout: home
 title: Michael Adeleke
 description: Michael Adeleke CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "I’m just trying to grow. It’s all about improvement, no matter where you start from."
 
 quick_facts:
   - "🎓 Senior, Computer Science @ Morgan State University"
