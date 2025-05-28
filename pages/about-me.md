@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Michael Adeleke
   role: Senior, Computer Science Major at Morgan State University
-  image: /assets/images/me.jpeg
+  image: assets/images/me.jpeg
   linkedin: https://www.linkedin.com/in/michael-adeleke-4a1228217/
   bio: |
     I’m a senior Computer Science student at Morgan State University and a researcher in the Human-AI eXperience (HAX) Lab. My interests include artificial intelligence, virtual reality, and computer science education. I’ve led outreach efforts through CodeBears, a summer STEM initiative for underrepresented youth, and have presented my work at national conferences. I’m currently preparing to pursue graduate studies in Computer Science.
