@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/michael-adeleke-4a1228217/
-image: assets/images/images.jpeg
+image: assets/images/goku.jpg
 ---
